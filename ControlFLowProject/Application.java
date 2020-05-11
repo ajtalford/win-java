@@ -1,4 +1,4 @@
-package Java.ControlFLow;
+package Java.ControlFLowProject;
 
 public class Application {
 
