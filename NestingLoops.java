@@ -1,7 +1,7 @@
 public class NestingLoops {
 	public static void main(String[] args) {
 	
-		// 1. The variable controlled by the outer loop, but the inner loop (n) moves faster. After it cycles through it triggers the outer loop.
+		// 1. The variable is controlled by the outer loop, but the inner loop (n) moves faster. After it cycles through it triggers the outer loop.
 		for (int n = 1; n <= 3; n++) {
 		// this is #1 - I'll call it "CN"
 		// 2. With the "c" loop on the inside and the "n" loop on the outside the "n" (number) has a slower rate of change than "c"(char).
@@ -17,7 +17,7 @@ public class NestingLoops {
 		
 		for (int a = 1; a <= 3; a++) {
 		// 3. When changed the second set of nested loops ("AB") from print to println one line prints for each iteration instead of one line for all
-			System.out.println(a + "-" + b + " ");
+			System.out.print(a + "-" + b + " ");
 		}
 		// 4. Instead of 9 consecutive lines there are are 3 lines printed then 3 empty lines repeated 3 times.
 		// * You will add a line of code here.
