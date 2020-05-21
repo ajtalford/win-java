@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="086b2290-89e7-435d-beb6-ae94ca7837e0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cC24PJfUpWYRy8VLIlu4MPkpHa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="086b2290-89e7-435d-beb6-ae94ca7837e0" name="Default Changelist" comment="" />
+      <created>1590018062954</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590018062954</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="547" y="182" key="#com.intellij.ide.util.MemberChooser" timestamp="1590026335572">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="547" y="182" key="#com.intellij.ide.util.MemberChooser/0.23.1280.777@0.23.1280.777" timestamp="1590026335572" />
+    <state x="2373" y="47" key="#com.intellij.ide.util.MemberChooser/1280.-210.2560.1057/-1920.-178.1920.1057/0.23.1280.777@1280.-210.2560.1057" timestamp="1590023307440" />
+    <state x="2373" y="30" key="#com.intellij.ide.util.MemberChooser/1280.-233.2560.1080/-1920.-201.1920.1080/0.0.1280.800@1280.-233.2560.1080" timestamp="1590019952436" />
+  </component>
+</project>
