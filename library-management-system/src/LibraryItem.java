@@ -1,23 +1,16 @@
 //LibraryItem base class, two immediate derived classes are Book and Periodical.
 // ReferenceBook and GeneralBook are derived from Book
 // Magazine and NewsPaper are Derived from Periodical
-
 public class LibraryItem {
 
-
-//    private String VIN, make, model, color;
-//    private double wholesaleCost, retailPrice;
-//    private int modelYear;
-//    private VehicleClassification vehicleClass;
-
-    // Class properties (notice they're private, so we'll need getters/setters)
+    // Class properties private, so add getters/setters
     private String ISBN, genre, author, binding;
     private double rentCost, retailPrice;
     private int publishedYear;
-//    private VehicleClassification vehicleClass;
 
     // Our constructor with all properties given
-    public LibraryItem(String ISBN, String genre, String author, String binding, double rentCost, double retailPrice, int publishedYear) {
+    public LibraryItem(String ISBN, String genre, String author, String binding,
+                       double rentCost, double retailPrice, int publishedYear) {
         this.ISBN = ISBN;
         this.genre = genre;
         this.author = author;

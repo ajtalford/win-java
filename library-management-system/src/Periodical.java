@@ -1,11 +1,12 @@
 //LibraryItem base class, two immediate derived classes are Book and Periodical.
 
-
+// Periodical class extends LibraryItem
 public class Periodical extends LibraryItem {
-
+    // Periodical properties specific to periodical
     private String topic;
     private boolean series;
 
+    // With topics and series Periodical constructor inheriting all of the methods and properties of LibraryItem
     public Periodical(String ISBN, String genre, String author,
                       String binding, double rentCost, double retailPrice,
                       int publishedYear, String topic, boolean series) {
@@ -15,6 +16,7 @@ public class Periodical extends LibraryItem {
     }
 
 
+    // getters and setters
     public String getTopic() {
         return topic;
     }
@@ -31,25 +33,3 @@ public class Periodical extends LibraryItem {
         this.series = series;
     }
 }
-
-//public class Car extends Vehicle {
-//    // Simple Car constructor inheriting all of the methods and properties of
-//    // Vehicle
-//    public Car(String VIN, double wholesaleCost, double retailPrice, int modelYear, String make, String model,
-//               String color, VehicleClassification vehicleClass) {
-//        super(VIN, wholesaleCost, retailPrice, modelYear, make, model, color, vehicleClass);
-//    }
-//
-//    @Override
-//    public double getTargetMargin() {
-//        return super.getTargetMargin() - 1000;
-//        // Use the getTargetMargin method as its defined in our superclass (Vehicle)
-//    }
-//}
-//    Vehicle
-//       |      |      |
-//       |      |      |
-//      Car   Truck   SUV
-//       |
-//       |
-//   HybridCar

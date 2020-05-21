@@ -1,4 +1,5 @@
 // ReferenceBook and GeneralBook derived from books
+
 //GeneralBook class extending Book class
 public class GeneralBook extends Book {
     // GeneralBook constructor inheriting all of the methods and properties of book
