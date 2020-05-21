@@ -39,5 +39,15 @@ public class ReferenceBook extends Book {
     public void setVersion(int version) {
         this.version = version;
     }
+
+    // Add toString Override
+    @Override
+    public String toString() {
+        return "ReferenceBook{" +
+                "consulting='" + consulting + '\'' +
+                ", subject='" + subject + '\'' +
+                ", version=" + version +
+                '}';
+    }
 }
 

@@ -82,5 +82,20 @@ public class LibraryItem {
     public void setPublishedYear(int publishedYear) {
         this.publishedYear = publishedYear;
     }
+
+
+    // Add toString Override
+    @Override
+    public String toString() {
+        return "LibraryItem{" +
+                "ISBN='" + ISBN + '\'' +
+                ", genre='" + genre + '\'' +
+                ", author='" + author + '\'' +
+                ", binding='" + binding + '\'' +
+                ", rentCost=" + rentCost +
+                ", retailPrice=" + retailPrice +
+                ", publishedYear=" + publishedYear +
+                '}';
+    }
 }
 

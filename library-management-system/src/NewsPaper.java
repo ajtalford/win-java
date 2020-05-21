@@ -23,4 +23,11 @@ public class NewsPaper extends Periodical {
         this.printed = printed;
     }
 
+    // Add toString Override
+    @Override
+    public String toString() {
+        return "NewsPaper{" +
+                "printed=" + printed +
+                '}';
+    }
 }

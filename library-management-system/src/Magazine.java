@@ -30,4 +30,13 @@ public class Magazine extends Periodical {
     public void setCoverPersonality(String coverPersonality) {
         this.coverPersonality = coverPersonality;
     }
+
+    // Add toString Override
+    @Override
+    public String toString() {
+        return "Magazine{" +
+                "advertise='" + advertise + '\'' +
+                ", coverPersonality='" + coverPersonality + '\'' +
+                '}';
+    }
 }

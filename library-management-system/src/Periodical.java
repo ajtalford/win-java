@@ -32,4 +32,13 @@ public class Periodical extends LibraryItem {
     public void setSeries(boolean series) {
         this.series = series;
     }
+
+    // Add toString Override
+    @Override
+    public String toString() {
+        return "Periodical{" +
+                "topic='" + topic + '\'' +
+                ", series=" + series +
+                '}';
+    }
 }

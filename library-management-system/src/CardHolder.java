@@ -49,4 +49,15 @@ private boolean checkOut, reserve;
     public void setReserve(boolean reserve) {
         this.reserve = reserve;
     }
+
+    // Add toString Override
+    @Override
+    public String toString() {
+        return "CardHolder{" +
+                "customer='" + customer + '\'' +
+                ", address='" + address + '\'' +
+                ", checkOut=" + checkOut +
+                ", reserve=" + reserve +
+                '}';
+    }
 }
