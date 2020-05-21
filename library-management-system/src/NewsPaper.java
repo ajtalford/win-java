@@ -2,11 +2,11 @@
 
 
 import java.util.Date;
-
+// NewsPaper class extending the Periodical class
 public class NewsPaper extends Periodical {
     // property for date printed
     private Date printed;
-
+    // NewsPaper constructor inheriting all of the methods and properties of Periodical
     public NewsPaper(String ISBN, String genre, String author, String binding, double rentCost,
                      double retailPrice, int publishedYear, String topic,
                      boolean series, Date printed) {
