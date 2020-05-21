@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="086b2290-89e7-435d-beb6-ae94ca7837e0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GeneralBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeneralBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LibraryItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LibraryItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Periodical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Periodical.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReferenceBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReferenceBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Magazine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Magazine.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,12 +45,12 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2373" y="30" key="#com.intellij.ide.util.MemberChooser" timestamp="1590059496301">
+    <state x="2373" y="30" key="#com.intellij.ide.util.MemberChooser" timestamp="1590060343989">
       <screen x="1280" y="-233" width="2560" height="1080" />
     </state>
     <state x="547" y="182" key="#com.intellij.ide.util.MemberChooser/0.23.1280.777@0.23.1280.777" timestamp="1590026335572" />
     <state x="2373" y="47" key="#com.intellij.ide.util.MemberChooser/1280.-210.2560.1057/-1920.-178.1920.1057/0.23.1280.777@1280.-210.2560.1057" timestamp="1590023307440" />
-    <state x="2373" y="30" key="#com.intellij.ide.util.MemberChooser/1280.-233.2560.1080/-1920.-201.1920.1080/0.0.1280.800@1280.-233.2560.1080" timestamp="1590059496301" />
+    <state x="2373" y="30" key="#com.intellij.ide.util.MemberChooser/1280.-233.2560.1080/-1920.-201.1920.1080/0.0.1280.800@1280.-233.2560.1080" timestamp="1590060343989" />
     <state x="2225" y="8" width="670" height="676" key="search.everywhere.popup" timestamp="1590059538753">
       <screen x="1280" y="-233" width="2560" height="1080" />
     </state>
