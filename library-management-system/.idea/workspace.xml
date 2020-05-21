@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="086b2290-89e7-435d-beb6-ae94ca7837e0" name="Default Changelist" comment="" />
+    <list default="true" id="086b2290-89e7-435d-beb6-ae94ca7837e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +31,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RunManager">
+    <configuration name="Library" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Library" />
+      <module name="library-management-system" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Library" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -42,11 +59,12 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2373" y="30" key="#com.intellij.ide.util.MemberChooser" timestamp="1590060542313">
+    <state x="2373" y="30" key="#com.intellij.ide.util.MemberChooser" timestamp="1590061201814">
       <screen x="1280" y="-233" width="2560" height="1080" />
     </state>
     <state x="547" y="182" key="#com.intellij.ide.util.MemberChooser/0.23.1280.777@0.23.1280.777" timestamp="1590026335572" />
     <state x="2373" y="47" key="#com.intellij.ide.util.MemberChooser/1280.-210.2560.1057/-1920.-178.1920.1057/0.23.1280.777@1280.-210.2560.1057" timestamp="1590023307440" />
+    <state x="2373" y="30" key="#com.intellij.ide.util.MemberChooser/1280.-233.2560.1080/-1920.-178.1920.1057/0.23.1280.777@1280.-233.2560.1080" timestamp="1590061201814" />
     <state x="2373" y="30" key="#com.intellij.ide.util.MemberChooser/1280.-233.2560.1080/-1920.-201.1920.1080/0.0.1280.800@1280.-233.2560.1080" timestamp="1590060542313" />
     <state x="2225" y="8" width="670" height="676" key="search.everywhere.popup" timestamp="1590059538753">
       <screen x="1280" y="-233" width="2560" height="1080" />

@@ -20,6 +20,9 @@ public class LibraryItem {
         this.publishedYear = publishedYear;
     }
 
+    public LibraryItem() {
+
+    }
 
     // Getters
     public String getISBN() {
