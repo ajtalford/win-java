@@ -1,6 +1,6 @@
-public enum GenreNames {
+public enum LateCharges {
 
-    FICTION, NONFICTION, SATIRE, ANTHOLOGY;
+    DAILY, WEEKLY, BIWEEKLY, MONTHLY;
 
 }
 

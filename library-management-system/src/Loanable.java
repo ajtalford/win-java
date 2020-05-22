@@ -8,16 +8,12 @@
 interface Loanable {
 
         boolean isLoanable();
-
         int getLoanTerm();
-
         int getMaxLoanPeriod();
-
-        default float getLoanablePenalty() {
-            return 5.0f;
-        }
-
         void isLoanable(boolean b);
+        default float getLoanablePenalty() {
+                return 5.0f;
+        }
 }
 
 
