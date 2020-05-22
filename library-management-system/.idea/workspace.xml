@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="086b2290-89e7-435d-beb6-ae94ca7837e0" name="Default Changelist" comment="" />
+    <list default="true" id="086b2290-89e7-435d-beb6-ae94ca7837e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GenreNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loanable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PublishingCompany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reservable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/library-management-system/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/library-management-system/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/library-management-system/CardHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/library-management-system/CardHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/library-management-system/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/library-management-system/Library.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/library-management-system/LibraryItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/library-management-system/LibraryItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/library-management-system/Magazine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/library-management-system/Magazine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/library-management-system/NewsPaper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/library-management-system/NewsPaper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/library-management-system/Periodical.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/library-management-system/Periodical.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/library-management-system/ReferenceBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/library-management-system/ReferenceBook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CardHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CardHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Periodical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Periodical.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +29,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -56,29 +77,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2373" y="30" key="#com.intellij.ide.util.MemberChooser" timestamp="1590062007417">
+    <state x="2373" y="30" key="#com.intellij.ide.util.MemberChooser" timestamp="1590106609725">
       <screen x="1280" y="-233" width="2560" height="1080" />
     </state>
     <state x="547" y="182" key="#com.intellij.ide.util.MemberChooser/0.23.1280.777@0.23.1280.777" timestamp="1590026335572" />
-    <state x="2373" y="47" key="#com.intellij.ide.util.MemberChooser/1280.-210.2560.1057/-1920.-178.1920.1057/0.23.1280.777@1280.-210.2560.1057" timestamp="1590023307440" />
+    <state x="2373" y="47" key="#com.intellij.ide.util.MemberChooser/1280.-210.2560.1057/-1920.-178.1920.1057/0.23.1280.777@1280.-210.2560.1057" timestamp="1590106339337" />
     <state x="2373" y="30" key="#com.intellij.ide.util.MemberChooser/1280.-233.2560.1080/-1920.-178.1920.1057/0.23.1280.777@1280.-233.2560.1080" timestamp="1590061201814" />
-    <state x="2373" y="30" key="#com.intellij.ide.util.MemberChooser/1280.-233.2560.1080/-1920.-201.1920.1080/0.0.1280.800@1280.-233.2560.1080" timestamp="1590062007417" />
-    <state width="2518" height="304" key="GridCell.Tab.0.bottom" timestamp="1590061812275">
+    <state x="2373" y="30" key="#com.intellij.ide.util.MemberChooser/1280.-233.2560.1080/-1920.-201.1920.1080/0.0.1280.800@1280.-233.2560.1080" timestamp="1590106609725" />
+    <state width="2518" height="304" key="GridCell.Tab.0.bottom" timestamp="1590104987812">
       <screen x="1280" y="-233" width="2560" height="1080" />
     </state>
-    <state width="2518" height="304" key="GridCell.Tab.0.bottom/1280.-233.2560.1080/-1920.-201.1920.1080/0.0.1280.800@1280.-233.2560.1080" timestamp="1590061812275" />
-    <state width="2518" height="304" key="GridCell.Tab.0.center" timestamp="1590061812273">
+    <state width="2518" height="304" key="GridCell.Tab.0.bottom/1280.-233.2560.1080/-1920.-201.1920.1080/0.0.1280.800@1280.-233.2560.1080" timestamp="1590104987812" />
+    <state width="2518" height="304" key="GridCell.Tab.0.center" timestamp="1590104987808">
       <screen x="1280" y="-233" width="2560" height="1080" />
     </state>
-    <state width="2518" height="304" key="GridCell.Tab.0.center/1280.-233.2560.1080/-1920.-201.1920.1080/0.0.1280.800@1280.-233.2560.1080" timestamp="1590061812273" />
-    <state width="2518" height="304" key="GridCell.Tab.0.left" timestamp="1590061812271">
+    <state width="2518" height="304" key="GridCell.Tab.0.center/1280.-233.2560.1080/-1920.-201.1920.1080/0.0.1280.800@1280.-233.2560.1080" timestamp="1590104987808" />
+    <state width="2518" height="304" key="GridCell.Tab.0.left" timestamp="1590104987806">
       <screen x="1280" y="-233" width="2560" height="1080" />
     </state>
-    <state width="2518" height="304" key="GridCell.Tab.0.left/1280.-233.2560.1080/-1920.-201.1920.1080/0.0.1280.800@1280.-233.2560.1080" timestamp="1590061812271" />
-    <state width="2518" height="304" key="GridCell.Tab.0.right" timestamp="1590061812274">
+    <state width="2518" height="304" key="GridCell.Tab.0.left/1280.-233.2560.1080/-1920.-201.1920.1080/0.0.1280.800@1280.-233.2560.1080" timestamp="1590104987806" />
+    <state width="2518" height="304" key="GridCell.Tab.0.right" timestamp="1590104987810">
       <screen x="1280" y="-233" width="2560" height="1080" />
     </state>
-    <state width="2518" height="304" key="GridCell.Tab.0.right/1280.-233.2560.1080/-1920.-201.1920.1080/0.0.1280.800@1280.-233.2560.1080" timestamp="1590061812274" />
+    <state width="2518" height="304" key="GridCell.Tab.0.right/1280.-233.2560.1080/-1920.-201.1920.1080/0.0.1280.800@1280.-233.2560.1080" timestamp="1590104987810" />
     <state x="2225" y="8" width="670" height="676" key="search.everywhere.popup" timestamp="1590059538753">
       <screen x="1280" y="-233" width="2560" height="1080" />
     </state>

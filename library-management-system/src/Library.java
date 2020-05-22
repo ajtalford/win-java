@@ -6,7 +6,10 @@ public class Library {
         item1.setAuthor("Author1");
         System.out.println( item1.getAuthor());
 
-
-
+        Book implTest = new Book();
+        implTest.setAuthor("Me");
+        System.out.println(implTest.getAuthor());
+        implTest.isLoanable(true);
+        System.out.println(implTest.isLoanable());
     }
 }

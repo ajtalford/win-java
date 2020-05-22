@@ -1,63 +1,80 @@
-//class CardHolder reps someone who joined library and can check out items, reserve items, etc.
+//class CardHolder reps someone who joined library and can check out items, reservedItems items, etc.
+
+import java.util.ArrayList;
+import java.util.Date;
 
 // Carholder class not derived from another class
 public class CardHolder {
     // CardHolder properties
-private String customer, address;
-private boolean checkOut, reserve;
+private String customerName, address;
+    private ArrayList<LibraryItem> checkedOutItems;
+    private ArrayList<LibraryItem> reservedItems;
+    private Date joinedOnDate;
+//private boolean checkedOutItems, reservedItems;
 
     // CarHolder class constructor
-    public CardHolder(String customer, String address, boolean checkOut,
-                      boolean reserve) {
-        this.customer = customer;
+    public CardHolder(String customerName, String address, ArrayList<LibraryItem> checkedOutItems,
+                      ArrayList<LibraryItem> reservedItems, Date joinedOnDate) {
+        this.customerName = customerName;
         this.address = address;
-        this.checkOut = checkOut;
-        this.reserve = reserve;
+        this.checkedOutItems = checkedOutItems;
+        this.reservedItems = reservedItems;
+        this.joinedOnDate = joinedOnDate;
     }
 
-    // getters
-    public String getCustomer() {
-        return customer;
+    // getter
+    public String getCustomerName() {
+        return customerName;
     }
 
     public String getAddress() {
         return address;
     }
 
-    public boolean isCheckOut() {
-        return checkOut;
+    public ArrayList<LibraryItem> getCheckedOutItems() {
+        return checkedOutItems;
     }
 
-    public boolean isReserve() {
-        return reserve;
+    public ArrayList<LibraryItem> getReservedItems() {
+        return reservedItems;
+    }
+
+    public Date getJoinedOnDate() {
+        return joinedOnDate;
     }
 
 
     // setters
-    public void setCustomer(String customer) {
-        this.customer = customer;
+    public void setCustomerName(String customerName) {
+        this.customerName = customerName;
     }
 
     public void setAddress(String address) {
         this.address = address;
     }
 
-    public void setCheckOut(boolean checkOut) {
-        this.checkOut = checkOut;
+    public void setCheckedOutItems(ArrayList<LibraryItem> checkedOutItems) {
+        this.checkedOutItems = checkedOutItems;
     }
 
-    public void setReserve(boolean reserve) {
-        this.reserve = reserve;
+    public void setReservedItems(ArrayList<LibraryItem> reservedItems) {
+        this.reservedItems = reservedItems;
     }
+
+    public void setJoinedOnDate(Date joinedOnDate) {
+        this.joinedOnDate = joinedOnDate;
+    }
+
 
     // Add toString Override
     @Override
     public String toString() {
         return "CardHolder{" +
-                "customer='" + customer + '\'' +
+                "customerName='" + customerName + '\'' +
                 ", address='" + address + '\'' +
-                ", checkOut=" + checkOut +
-                ", reserve=" + reserve +
+                ", checkedOutItems=" + checkedOutItems +
+                ", reservedItems=" + reservedItems +
+                ", joinedOnDate=" + joinedOnDate +
                 '}';
     }
 }
