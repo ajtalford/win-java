@@ -1,6 +1,6 @@
 public enum GenreNames {
 
-    FICTION, NONFICTION, Satirel, ANTHOLOGY;
+    FICTION, NONFICTION, SATIRE, ANTHOLOGY;
 
 }
 

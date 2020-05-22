@@ -4,37 +4,30 @@
 
 public class Author {
     // Author properties
-    private String firstName, lastName, expertise;
+    private String authorName, expertise;
 
 
     // Author constructor
-    public Author(String firstName, String lastName, String expertise) {
-        this.firstName = firstName;
-        this.lastName = lastName;
+    public Author(String authorName, String lastName, String expertise) {
+        this.authorName = authorName;
         this.expertise = expertise;
     }
 
 
     // getters
-    public String getFirstName() {
-        return firstName;
+    public String getauthorName() {
+        return authorName;
     }
 
-    public String getLastName() {
-        return lastName;
-    }
 
     public String getExpertise() {
         return expertise;
     }
 
-    // setters
-    public void setFirstName(String firstName) {
-        this.firstName = firstName;
-    }
 
-    public void setLastName(String lastName) {
-        this.lastName = lastName;
+    // setters
+    public void setAuthorName(String authorName) {
+        this.authorName = authorName;
     }
 
     public void setExpertise(String expertise) {
@@ -45,8 +38,7 @@ public class Author {
     @Override
     public String toString() {
         return "Author{" +
-                "firstName='" + firstName + '\'' +
-                ", lastName='" + lastName + '\'' +
+                "authorName='" + authorName + '\'' +
                 ", expertise='" + expertise + '\'' +
                 '}';
     }
