@@ -91,10 +91,11 @@
     </state>
     <state width="2518" height="304" key="GridCell.Tab.0.right/1280.-210.2560.1057/-1920.-178.1920.1057/0.23.1280.777@1280.-210.2560.1057" timestamp="1590121993840" />
     <state width="2518" height="304" key="GridCell.Tab.0.right/1280.-233.2560.1080/-1920.-201.1920.1080/0.0.1280.800@1280.-233.2560.1080" timestamp="1590148505735" />
-    <state x="333" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1590139176533">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state x="1946" y="80" key="com.intellij.ide.util.TipDialog" timestamp="1590450540613">
+      <screen x="1280" y="-233" width="2560" height="1080" />
     </state>
     <state x="333" y="232" key="com.intellij.ide.util.TipDialog/1280.-233.2560.1080/-1920.-201.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1590139176533" />
+    <state x="1946" y="80" key="com.intellij.ide.util.TipDialog/1280.-233.2560.1080/-1920.-201.1920.1080/0.0.1280.800@1280.-233.2560.1080" timestamp="1590450540613" />
     <state x="2268" y="-70" key="refactoring.ChangeSignatureDialog" timestamp="1590147965834">
       <screen x="1280" y="-233" width="2560" height="1080" />
     </state>
