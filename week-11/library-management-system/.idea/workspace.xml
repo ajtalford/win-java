@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="086b2290-89e7-435d-beb6-ae94ca7837e0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cC24PJfUpWYRy8VLIlu4MPkpHa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Library" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Library" />
+      <module name="library-management-system" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Library" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="086b2290-89e7-435d-beb6-ae94ca7837e0" name="Default Changelist" comment="" />
+      <created>1590018062954</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590018062954</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2373" y="30" key="#com.intellij.ide.util.MemberChooser" timestamp="1590142638805">
+      <screen x="1280" y="-233" width="2560" height="1080" />
+    </state>
+    <state x="547" y="182" key="#com.intellij.ide.util.MemberChooser/0.23.1280.777@0.23.1280.777" timestamp="1590026335572" />
+    <state x="2373" y="47" key="#com.intellij.ide.util.MemberChooser/1280.-210.2560.1057/-1920.-178.1920.1057/0.23.1280.777@1280.-210.2560.1057" timestamp="1590106339337" />
+    <state x="2373" y="30" key="#com.intellij.ide.util.MemberChooser/1280.-233.2560.1080/-1920.-178.1920.1057/0.23.1280.777@1280.-233.2560.1080" timestamp="1590061201814" />
+    <state x="2373" y="30" key="#com.intellij.ide.util.MemberChooser/1280.-233.2560.1080/-1920.-201.1920.1080/0.0.1280.800@1280.-233.2560.1080" timestamp="1590142638805" />
+    <state x="2298" y="61" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1590145825821">
+      <screen x="1280" y="-233" width="2560" height="1080" />
+    </state>
+    <state x="2298" y="61" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/1280.-233.2560.1080/-1920.-201.1920.1080/0.0.1280.800@1280.-233.2560.1080" timestamp="1590145825821" />
+    <state width="2518" height="304" key="GridCell.Tab.0.bottom" timestamp="1590148505736">
+      <screen x="1280" y="-233" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="304" key="GridCell.Tab.0.bottom/1280.-210.2560.1057/-1920.-178.1920.1057/0.23.1280.777@1280.-210.2560.1057" timestamp="1590121993842" />
+    <state width="2518" height="304" key="GridCell.Tab.0.bottom/1280.-233.2560.1080/-1920.-201.1920.1080/0.0.1280.800@1280.-233.2560.1080" timestamp="1590148505736" />
+    <state width="2518" height="304" key="GridCell.Tab.0.center" timestamp="1590148505734">
+      <screen x="1280" y="-233" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="304" key="GridCell.Tab.0.center/1280.-210.2560.1057/-1920.-178.1920.1057/0.23.1280.777@1280.-210.2560.1057" timestamp="1590121993838" />
+    <state width="2518" height="304" key="GridCell.Tab.0.center/1280.-233.2560.1080/-1920.-201.1920.1080/0.0.1280.800@1280.-233.2560.1080" timestamp="1590148505734" />
+    <state width="2518" height="304" key="GridCell.Tab.0.left" timestamp="1590148505733">
+      <screen x="1280" y="-233" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="304" key="GridCell.Tab.0.left/1280.-210.2560.1057/-1920.-178.1920.1057/0.23.1280.777@1280.-210.2560.1057" timestamp="1590121993834" />
+    <state width="2518" height="304" key="GridCell.Tab.0.left/1280.-233.2560.1080/-1920.-201.1920.1080/0.0.1280.800@1280.-233.2560.1080" timestamp="1590148505733" />
+    <state width="2518" height="304" key="GridCell.Tab.0.right" timestamp="1590148505735">
+      <screen x="1280" y="-233" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="304" key="GridCell.Tab.0.right/1280.-210.2560.1057/-1920.-178.1920.1057/0.23.1280.777@1280.-210.2560.1057" timestamp="1590121993840" />
+    <state width="2518" height="304" key="GridCell.Tab.0.right/1280.-233.2560.1080/-1920.-201.1920.1080/0.0.1280.800@1280.-233.2560.1080" timestamp="1590148505735" />
+    <state x="1946" y="80" key="com.intellij.ide.util.TipDialog" timestamp="1590450540613">
+      <screen x="1280" y="-233" width="2560" height="1080" />
+    </state>
+    <state x="333" y="232" key="com.intellij.ide.util.TipDialog/1280.-233.2560.1080/-1920.-201.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1590139176533" />
+    <state x="1946" y="80" key="com.intellij.ide.util.TipDialog/1280.-233.2560.1080/-1920.-201.1920.1080/0.0.1280.800@1280.-233.2560.1080" timestamp="1590450540613" />
+    <state x="2268" y="-70" key="refactoring.ChangeSignatureDialog" timestamp="1590147965834">
+      <screen x="1280" y="-233" width="2560" height="1080" />
+    </state>
+    <state x="2268" y="-70" key="refactoring.ChangeSignatureDialog/1280.-233.2560.1080/-1920.-201.1920.1080/0.0.1280.800@1280.-233.2560.1080" timestamp="1590147965834" />
+    <state x="2225" y="8" width="670" height="676" key="search.everywhere.popup" timestamp="1590059538753">
+      <screen x="1280" y="-233" width="2560" height="1080" />
+    </state>
+    <state x="2225" y="8" width="670" height="676" key="search.everywhere.popup/1280.-233.2560.1080/-1920.-201.1920.1080/0.0.1280.800@1280.-233.2560.1080" timestamp="1590059538753" />
+  </component>
+</project>
