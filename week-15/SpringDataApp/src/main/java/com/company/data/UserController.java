@@ -28,7 +28,7 @@ public String addNewUser(User user, Model model) {
         user.getLastName(), user.getEmail(), user.getSignedUp()));
 	model.addAttribute("firstName", user.getFirstName());
 	model.addAttribute("lastName", user.getLastName());
-	model.addAttribute("userName", user.getEmail());
+	model.addAttribute("email", user.getEmail());
 	model.addAttribute("SignedUp", user.getSignedUp());
 	return "user/result";
 }

@@ -1,28 +1,16 @@
-<!-- <!DOCTYPE html>
-<html>
-  <head>
-    <title>Subscriber List</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-  </head>
-  <body>
-    <h1>Welcome to Our Awesome Site!</h1>
-    <h3>Subscribe to our List. Sign-up below!</h3>
-  </body>
-</html> -->
-
 <!DOCTYPE html>
 <html xmlns:th="http://www.thymeleaf.org">
   <head>
-    <title>Subscriber List</title>
+    <title>User Registration</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   </head>
   <body>
-    <h1>Welcome to Our Awesome Site!</h1>
-    <h3>Subscribe to our List. Sign-up below!</h3>
+    <h1>Welcome to Our Site!</h1>
+    <h3>To Get Email Notifications. Sign-up below!</h3>
     
     <!-- Add in the <body> of your template -->
-<p>Please use the form below to sign up as a subscriber:</p>
- <form action="#" th:action="@{/}" th:object="${subscriber}" method="post">
+<p>Use the form below for user sign up:</p>
+ <form action="#" th:action="@{/}" th:object="${user}" method="post">
     <table>
 	<tr>
             <td>First Name:</td>
@@ -33,8 +21,8 @@
 	    <td><input type="text" th:field="*{lastName}" /></td>
 	</tr>
 	<tr>
-    	    <td>Username:</td>
-	    <td><input type="text" th:field="*{userName}" /></td>
+    	    <td>Email:</td>
+	    <td><input type="text" th:field="*{email}" /></td>
 	</tr>
 	<tr>
 	    <td><button type="submit">Submit Your Name</button></td>
