@@ -2,7 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/week-15/WIN-TechTalentBlog" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/week-16/WIN-TechTalentBlog-Day3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week-15/WIN-TechTalentBlog" vcs="" />
+    <mapping directory="$PROJECT_DIR$/week-16/WIN-TechTalentBlog-Day3" vcs="" />
   </component>
 </project>
