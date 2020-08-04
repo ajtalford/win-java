@@ -11,7 +11,7 @@
 	<groupId>com.tts</groupId>
 	<artifactId>weather-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>WeatherApp</name>
+	<name>weatherapp</name>
 	<description>Weather app built on Open Weather Map API  </description>
 
 	<properties>
