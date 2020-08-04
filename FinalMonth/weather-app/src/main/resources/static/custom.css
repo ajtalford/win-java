@@ -1,8 +1,12 @@
 body{
+    background: url('https://unsplash.com/photos/xp-tY7kTiaA');
+    background-repeat: no-repeat;
+    background-size: cover;
     background: rgb(12,196,226);
     background: linear-gradient(90deg, rgba(12,196,226,1) 35%, rgba(14,197,227,1) 100%, rgba(66,128,138,1) 100%); !important;
 }
 .container{
+
    background: rgb(133,28,156);
    background: linear-gradient(90deg, rgba(133,28,156,1) 0%, rgba(139,24,36,1) 35%, rgba(66,128,138,1) 100%);
    padding: 10px 10px 20px 10px;
