@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="techtalentblog (1)" />
+        <module name="TransitApp" />
         <module name="weather-app" />
         <module name="RestAPI" />
         <module name="techtalentblog" />
@@ -16,6 +17,7 @@
       <module name="RestAPI" target="1.8" />
       <module name="techtalentblog" target="1.11" />
       <module name="techtalentblog (1)" target="1.11" />
+      <module name="TransitApp" target="11" />
       <module name="weather-app" target="11" />
       <module name="WeatherApp" target="1.8" />
     </bytecodeTargetLevel>
@@ -23,6 +25,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="RestAPI" options="-parameters" />
+      <module name="TransitApp" options="-parameters" />
       <module name="WeatherApp" options="-parameters" />
       <module name="techtalentblog" options="-parameters" />
       <module name="techtalentblog (1)" options="-parameters" />
